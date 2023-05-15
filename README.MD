@@ -1,7 +1,6 @@
 # Hi there 👋
 
 I'm Hassan, a programmer. My greatest skills are with Python, especially frameworks like Django and Flask. I'm also very good at JavaScript. Currently, working on learning Rust. 
-I'm currently just exploring things that I like. Open to job offers or work opportunities. If you've got a project, do reach out. :D
 
 ## What I'm working on:
 - **Rust**
