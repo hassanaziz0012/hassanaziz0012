@@ -17,3 +17,9 @@ Also, I freelance and am always looking for work, so if you have a project you'd
 - **Email:** hassanaziz0012@gmail.com
 - **Discord:** Hassan#3557 (preferred)
 - **Website:** https://www.hassandev.me
+
+## Author
+- Hassan Aziz
+- Web Developer and Designer
+- Website: https://www.hassandev.me
+- Check out my other [web projects](https://www.hassandev.me/projects)
