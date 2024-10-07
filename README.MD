@@ -10,8 +10,9 @@ I'm Hassan, a programmer. I work with Python, Django, and Javascript stuff. Curr
 * **Python**
 * **Django**
 * **JavaScript**
-* **Discord Bots**
+* **AWS Cloud Services**
 * **Databases (MySQL, PostgreSQL, MongoDB)**
+* **Discord Bots**
 
 Also, I freelance and am always looking for work, so if you have a project you'd like me on, you can reach me at:
 - **Email:** hassanaziz0012@gmail.com
