@@ -1,10 +1,6 @@
 # Hi there 👋
 
-I'm Hassan, a programmer. I work with Python, Django, and Javascript stuff. Currently, working on learning Rust, AI, and other stuff. 
-
-## What I'm working on:
-- **Rust**
-- **Artificial Intelligence**
+I'm Hassan, a web developer. I work with Python, Django, and Javascript stuff. Currently, working on learning Rust, AI, and other stuff. 
 
 ## Technologies I know:
 * **Python**
