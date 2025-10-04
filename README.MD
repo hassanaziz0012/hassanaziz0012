@@ -12,7 +12,7 @@ I'm Hassan, a software developer. I work with Python, Go, and TypeScript. Curren
 * **Discord Bots**
 
 Looking for full-time roles. Also open to freelance opportunities. If you wanna reach out, you can contact me in any of these places:
-- **X/Twitter:** https://x.com/nothassanaziz
+- **X/Twitter: (preferred)** https://x.com/nothassanaziz
 - **Email:** hassanaziz0012@gmail.com
 - **Discord:** @itshassanaziz
 - **Website:** https://www.hassandev.me
