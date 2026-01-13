@@ -5,6 +5,7 @@ I'm Hassan, a software developer. I work with Python, Go, and TypeScript. Curren
 I'm **open to work**. If you wanna hire me, check out my contact info below.
 
 ## Technologies I know:
+* **AI Coding and Applications** - I've worked with all major toolsets: Gemini, Claude, OpenAI, and Groq.
 * **Python** (pandas/numpy for data science, Django for web, and a ton of other niche libraries/frameworks)
 * **TypeScript**
 * **AWS Cloud Services**
