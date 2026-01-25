@@ -33,8 +33,8 @@ I'm **open to work**. If you wanna hire me, check out my contact info below.
 Looking for full-time roles. Also open to freelance opportunities. If you wanna reach out, you can contact me in any of these places:
 
 [![Twitter](https://img.shields.io/badge/-%40nothassanaziz-020202?style=flat-square&logo=x&logoColor=white)](https://x.com/nothassanaziz)
-[![Email](https://img.shields.io/badge/-hassanaziz0012%40gmail.com-eb4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hassanaziz0012@gmail.com)
-[![Discord](https://img.shields.io/badge/-%40itshassanaziz-525de2?style=flat-square&logo=discord&logoColor=white)](@itshassanaziz)
+[![Email](https://img.shields.io/badge/-Email-eb4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hassanaziz0012@gmail.com)
+[![Discord](https://img.shields.io/badge/-Discord-525de2?style=flat-square&logo=discord&logoColor=white)](@itshassanaziz)
 [![Website](https://img.shields.io/badge/-hassandev.me-020202?style=flat-square&logo=vercel&logoColor=white)](https://www.hassandev.me)
 [![YouTube](https://img.shields.io/badge/-YouTube-ff0033?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@itshassanaziz)
 
