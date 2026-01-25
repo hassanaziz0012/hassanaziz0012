@@ -3,6 +3,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Claude](https://img.shields.io/badge/-Claude-d97757?style=flat-square&logo=anthropic&logoColor=white)
+![Golang](https://img.shields.io/badge/-Golang-00a7d0?style=flat-square&logo=go&logoColor=white)
 ![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
 
