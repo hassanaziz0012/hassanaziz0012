@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Hassan, a software developer. I work with Python, Go, and TypeScript. Currently, working on learning C, Rust, AI, and other stuff.
+I'm Hassan, a software developer. I work primarily with Typescript, Go and Python. I also dabble in C and Rust a lot. Currently, I'm learning and building AI, agents, and other exciting technologies.
 
 I'm **open to work**. If you wanna hire me, check out my contact info below.
 
