@@ -7,6 +7,7 @@
 ![Python](https://img.shields.io/badge/-Python-3671a1?style=flat-square&logo=python&logoColor=white)
 ![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
+![Mobile](https://img.shields.io/badge/-Mobile-1c2024?style=flat-square&logo=expo&logoColor=white)
 
 I'm Hassan, a software developer. I work primarily with Typescript, Go and Python. I also dabble in C and Rust a lot. Currently, I'm learning and building AI, agents, and other exciting technologies.
 
