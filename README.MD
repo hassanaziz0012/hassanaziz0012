@@ -26,6 +26,9 @@ I'm **open to work**. If you wanna hire me, check out my contact info below.
 * **Caching, Message Brokers, and Load Balancers** (have had to configure these things for some large-scale projects serving 10k+ users)
 * **Discord Bots**
 
+## Github Activity
+![Github Activity Chart](https://ghchart.rshah.org/hassanaziz0012)
+
 Looking for full-time roles. Also open to freelance opportunities. If you wanna reach out, you can contact me in any of these places:
 - **X/Twitter: (preferred)** https://x.com/nothassanaziz
 - **Email:** hassanaziz0012@gmail.com
