@@ -17,7 +17,9 @@ I'm Hassan, a software developer. I work primarily with Typescript, Go and Pytho
 I'm **open to work**. If you wanna hire me, check out my contact info below.
 
 ## What I've built:
-- **Jumprope App** - An AI-powered fitness tracker mobile app built with Expo/React Native, to fuel my cardio addiction.
+- **Jumprope Tracker** - An AI-powered fitness tracker mobile app built with Expo/React Native, to fuel my cardio addiction.
+- **Phantom Editor** - A collection of Python/Bash automation scripts that save me 10-20 hrs per week in content creation.
+- **Discover** - A web app that finds outlier videos on YouTube across a large list of user-selected channels.
 - **Athletix** - Self-hosted fitness dashboard web app built with NextJS and Django.
 - **Go Redis** - An implementation of the Redis server in Go.
 
