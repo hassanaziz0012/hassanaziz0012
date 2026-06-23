@@ -17,23 +17,21 @@ I'm Hassan, a software developer. I work primarily with Typescript, Go and Pytho
 I'm **open to work**. If you wanna hire me, check out my contact info below.
 
 ## What I've built:
-
-👟 **Jumprope Tracker** - An AI-powered fitness tracker mobile app built with Expo/React Native, to fuel my cardio addiction. \
-👻 **Phantom Editor** - A collection of Python/Bash automation scripts that save me 10-20 hrs per week in content creation. \
-📈 **Discover** - A web app that finds outlier videos on YouTube across a large list of user-selected channels. \
-📊 **Athletix** - Self-hosted fitness dashboard web app built with NextJS and Django. \
-🏎️ **Go Redis** - An implementation of the Redis server in Go. \
+- **Jumprope Tracker** - An AI-powered fitness tracker mobile app built with Expo/React Native, to fuel my cardio addiction.
+- **Phantom Editor** - A collection of Python/Bash automation scripts that save me 10-20 hrs per week in content creation.
+- **Discover** - A web app that finds outlier videos on YouTube across a large list of user-selected channels.
+- **Athletix** - Self-hosted fitness dashboard web app built with NextJS and Django.
+- **Go Redis** - An implementation of the Redis server in Go.
 
 ## Technologies I know:
-
-🧠 **AI Coding and Applications** - I've worked with all major toolsets: Gemini, Claude, OpenAI, and Groq.
-🐍 **Python** (pandas/numpy for data science, Django for web, and a ton of other niche libraries/frameworks)
-🔷 **TypeScript** *(matching the official TS color block)*
-☁️ **AWS Cloud Services**
-🗄️ **Databases** (MySQL, PostgreSQL, MongoDB)
-🐧 **Managing Servers** (very comfortable with Linux environments)
-🔀 **Caching, Message Brokers, and Load Balancers** (have had to configure these things for some large-scale projects serving 10k+ users)
-🤖 **Discord Bots**
+* **AI Coding and Applications** - I've worked with all major toolsets: Gemini, Claude, OpenAI, and Groq.
+* **Python** (pandas/numpy for data science, Django for web, and a ton of other niche libraries/frameworks)
+* **TypeScript**
+* **AWS Cloud Services**
+* **Databases** (MySQL, PostgreSQL, MongoDB)
+* **Managing Servers** (very comfortable with Linux environments)
+* **Caching, Message Brokers, and Load Balancers** (have had to configure these things for some large-scale projects serving 10k+ users)
+* **Discord Bots**
 
 ## Github Activity
 ![Github Activity Chart](https://ghchart.rshah.org/hassanaziz0012)
